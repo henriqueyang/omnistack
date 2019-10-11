@@ -1,10 +1,10 @@
 # **AirCnC**
 
-## Semana OmniStack 9 da Rocketseat. Projeto "AirCnC", com cliente web (ReactJS) e mobile (ReactNative) consumindo API Rest (NodeJS), onde aprendi muita coisa desta stack. 
+## Semana OmniStack 9 da Rocketseat. Projeto "AirCnC", com cliente web (ReactJS) e mobile (ReactNative) consumindo API Restful com Socket.IO (NodeJS), onde aprendi muita coisa desta stack. 
 
 ## Tecnologias usadas:
 
-> **server:** NodeJS
+> **server:** NodeJS (Restful com Socket.IO)
 
 > **database:** MongoDB Atlas
 
