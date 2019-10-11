@@ -10,7 +10,7 @@ import {
   Alert
 } from 'react-native';
 
-import api from '../services/api';omnistack
+import api from '../services/api';
 
 export default function Book({ navigation }) {
 
