@@ -6,7 +6,7 @@
 
 > **server:** NodeJS (Restful com Socket.IO)
 
-> **database:** MongoDB Atlas
+> **database:** MongoDB Atlas (Cloud Database)
 
 > **webPage:** ReactJS
 
